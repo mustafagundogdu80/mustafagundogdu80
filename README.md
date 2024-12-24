@@ -7,7 +7,7 @@ Hello there! I'm glad you stopped by. Here's a little about me and what you'll f
 - **Name**: Mustafa Gundogdu
 - **Location**: Leiden Nederland
 - **Profession**: Software Engineer, Data Scientist
-- **Interests**: Open Source, Machine Learning, 
+- **Interests**: Open Source, Machine Learning, AI
 - **Currently Working On**: Momenteel ben ik mijn carrière in de IT-sector helemaal opnieuw aan het vormgeven via WeRHere.
 
 ---
@@ -18,7 +18,7 @@ Here are some of the technologies and tools I work with:
 
 - **Programming Languages**: Delphi, C#, PHP, Java , Javascript, Python
 - **Frameworks**: React
-- **Tools**: Git, Docker, Kubernetes]
+- **Tools**: Git,
 - **Other**: [MsSQL, PostgreSQL]
 
 ---
