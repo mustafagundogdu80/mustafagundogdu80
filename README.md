@@ -19,7 +19,7 @@ Here are some of the technologies and tools I work with:
 - **Programming Languages**: Delphi, C#, PHP, Java , Javascript, Python
 - **Frameworks**: React
 - **Tools**: Git,
-- **Other**: [MsSQL, PostgreSQL]
+- **Other**: [MsSQL, PostgreSQL, MySQL, Oracle]
 
 ---
 
