@@ -22,11 +22,11 @@ Here are some of the technologies and tools I work with:
 - **Other**: [MsSQL, PostgreSQL, MySQL, Oracle]
 
 ---
-## My Work History
+## My Work History ♻️
 - **Select Bilgi Teknojileri** (Junior/Senior Software Engineer)Steps Delphi, MsSQL Logistic ERP, C#.Net 
-- **Kocaeli Univercity** (Senior Software Engineer) Student Information System, Coldfusion, HTML, javascript, MsSQL, Ajax, JQuery
+- **Kocaeli University** (Senior Software Engineer) Student Information System, Coldfusion, HTML, javascript, MsSQL, Ajax, JQuery
 - **Kocaeli Metropolitan** (Senior Software Engineer) Municipality ERP, C# .Net, MsSQL
-- **Namık Kemal Univercity** (Senior Software Engineer, System Managemet, Head of IT Department) 
+- **Namık Kemal University** (Senior Software Engineer, System Managemet, Head of IT Department) 
     - **Software and Database Development**
         - Univercity ERP PHP, Javascript, PostgreSQL, HTML 5, CSS
     - **Network Configuration**
