@@ -5,7 +5,7 @@ Hello there! I'm glad you stopped by. Here's a little about me and what you'll f
 ## About Me 🌟
 
 CName**: Mustafa Gundogdu
-- **Location**: Leiden Nederland
+- **Location**: Lisse Nederland
 - **Profession**: Software Engineer, Data Scientist
 - **Interests**: Open Source, Machine Learning, AI
 - **Currently Working On**: Momenteel ben ik mijn carrière in de IT-sector helemaal opnieuw aan het vormgeven via WeRHere.
