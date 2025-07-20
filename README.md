@@ -23,7 +23,8 @@ Here are some of the technologies and tools I work with:
 
 ---
 ## My Work History ♻️
-- **Select Bilgi Teknojileri** (Junior/Senior Software Engineer)Steps Delphi, MsSQL Logistic ERP, C#.Net 
+- **Bimtes Elektronik Laboratuvarları A.Ş.** (Junior Software Engineer) Delphi, MsSQL ERP
+- **Select Bilgi Teknojileri** (Senior Software Engineer)Steps Delphi, MsSQL Logistic ERP, C#.Net 
 - **Kocaeli University** (Senior Software Engineer) Student Information System, Coldfusion, HTML, javascript, MsSQL, Ajax, JQuery
 - **Kocaeli Metropolitan** (Senior Software Engineer) Municipality ERP, C# .Net, MsSQL
 - **Namık Kemal University** (Senior Software Engineer, System Managemet, Head of IT Department) 
