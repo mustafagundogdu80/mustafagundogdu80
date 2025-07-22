@@ -16,10 +16,13 @@ CName**: Mustafa Gundogdu
 
 Here are some of the technologies and tools I work with:
 
-- **Programming Languages**: Delphi, C#, PHP, Java, Kotlin , Coldfusion , Javascript, Python, Swift 6
-- **Frameworks**: React, Android Studio, 
-- **Tools**: Git, Jupiter
-- **Other**: [MsSQL, PostgreSQL, MySQL, Oracle]
+- **Programming Languages**: Delphi, C#, PHP, Java, Kotlin, Coldfusion, Javascript, Python, Swift 6
+- **Databases** MS SQL, PostgreSQL, MySQL, Oracle
+- **Frameworks**: React, Android Studio, .NET
+- **Networking**: LAN, WAN, IP Addressing, Subnetting, VLAN, Router & Switch Configuration, Wi-Fi Deployment, DHCP, DNS, NAT, UTM, Firewall, VPN (IPSec, SSL), IDS/IPS
+- **Operating Systems**: Windows Server, Linux 
+- **Tools**: Git, Jupiter, Cisco Unified Communications Manager (CUCM), Asterisk, Elastix, Aruba Wireless Controller, Active Directory, DNS, DHCP, FTP, VPN, VMware, Hyper-V, AirWave, Aruba Central, ClearPass
+- **Other**: ERP Development, System Management, Database Development, Data Science, Machine Learning, Artificial Intelligence, Open Source, Network Security, Server Configuration, Virtualization, IP PBX Installation & Management, VoIP, QoS, Wireless Network Management, Cyber Security.
 
 ---
 ## My Work History ♻️
